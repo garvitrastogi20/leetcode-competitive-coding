@@ -14,9 +14,9 @@ The aim is to maintain a **clean, structured, and interview-focused** collection
 
 | LeetCode No. | Problem | Difficulty | Solution |
 |-------------|--------|------------|----------|
-| 219 | Contains Duplicate II | Easy | [leetcode219.cpp](Arrays/leetcode219.cpp) |
-| 238 | Product of Array Except Self | Medium | [leetcode238.cpp](Arrays/leetcode238.cpp) |
-| 4 | Median of Two Sorted Arrays | Hard | [leetcode4.cpp](Arrays/leetcode4.cpp) |
+| 219 | Contains Duplicate II | Easy | [leetcode219.cpp](codes/leetcode219.cpp) |
+| 238 | Product of Array Except Self | Medium | [leetcode238.cpp](codes/leetcode238.cpp) |
+| 4 | Median of Two Sorted Arrays | Hard | [leetcode4.cpp](codes/leetcode4.cpp) |
 
 ---
 
