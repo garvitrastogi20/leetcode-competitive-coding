@@ -150,5 +150,4 @@ The aim is to maintain a **clean, structured, and interview-focused** collection
 
 ---
 
-## 👨‍💻 Maintained By
-**Garvit Rastogi**
+
